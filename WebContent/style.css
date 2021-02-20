@@ -1,0 +1,225 @@
+#tableview{
+    border: 1px solid firebrick;
+    margin-left: 40%;
+    /* margin-right: 50%; */
+}
+#indextable
+{
+    width: 80%;
+    margin-left:10%;
+    
+}
+.indexcol
+{
+    width: 50%;
+    text-align: center;
+}
+.body1
+{
+	margin:0px;
+	
+    border: 1px solid  #1261A0;
+   /* border-radius: 10px; */
+  
+}
+.head1
+{
+    background-color: #1261A0;
+    /* firebrick;*/
+  /*  color: darkorange;*/
+    text-align: center;
+    font-weight: bolder;
+    /* font-size: 30px; */
+    font-size: 3.5vw;
+    text-decoration: none;
+    height:10%;
+    width: 100%; 
+    align-self:flex-start;
+    /* border-top-left-radius: 10px;
+    border-top-right-radius: 10px; */
+}
+.title
+{   
+    /* background: -webkit-linear-gradient(#eee,#ff8c00 70%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent; */
+    color: white;
+    font-size: 3.5vw;
+    text-decoration: none;
+    
+}
+.title:hover
+{
+    /* background: -webkit-linear-gradient(#eee, #333);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent; */
+    color: #c7c7c7; /*#dd7d07be;*/
+    font-size: 3.5vw;
+    /*text-decoration: none;*/
+    
+}
+.head2
+{
+    font-size: 100%;
+    font-weight: bold;
+   
+}
+.head3
+{
+    font-size: 3vw;
+}
+.amount
+{
+    color: #ff8c00;
+    font-size: 7vw;
+}
+.amount:hover
+{
+    color: black;
+    font-size: 8vw;
+}
+
+
+.tdcol
+{
+    border: 1.5px dotted firebrick;
+    text-align: center;
+    padding: 5px 10px 5px 10px;
+    /* padding-right: 10px; */
+}
+.tdcol1
+{
+    border: 1.5px dotted firebrick;
+    text-align: center;
+    padding: 5px 15px 5px 15px;
+    /* padding-right: 10px; */
+}
+.tdcol1:hover
+{
+    border: 1.5px solid firebrick;
+    text-align: center;
+    padding: 5px 15px 5px 15px;
+    /* padding-right: 10px; */
+}
+.link1
+{
+    color:#3895D3;
+    /*red;*/
+    text-decoration: none;
+    font-size: 30px;
+    font-size-adjust: initial;
+}
+.link1:hover
+{
+    color:#58CCED;
+    /*orange;*/
+    text-decoration: none;
+    font-size: 30px;
+    font-size-adjust: initial;
+}
+.link2
+{
+    color:#072F5F;
+    text-decoration: none;
+    font-size: 20px;
+    font-size-adjust: initial;
+}
+.link2:hover
+{
+    color:black;
+    text-decoration: none;
+    font-size: 25px;
+    font-size-adjust: initial;
+}
+.menu
+{
+    text-align: center;
+    font-size: 100%;
+     /* border: 1.5px dotted red;  */
+  /*  border-top: 1.5px dotted red;
+    border-bottom: 2px dotted red;*/
+     border-top: 0px dotted red;
+    border-bottom: 0px dotted red;
+    border-radius: 20%  ;
+   
+}
+.menu1
+{
+    text-align: center;
+    font-size: 100%;
+     /* border: 1.5px dotted red;  */
+   /*  border-top: 1.5px dotted red;
+    border-bottom: 2px dotted red;*/
+     border-top: 0px dotted red;
+    border-bottom: 0px dotted red;
+    border-radius: 20%  ;
+    background-image: linear-gradient( white, #3895D3 ) ;
+}
+.input1
+{
+    border:1px solid #072F5F;
+    width: 200px;
+    height: 30px;
+    border-radius: 05px;
+}
+.input1:hover
+{
+    border:1px solid #3895D3;
+    width: 230px;
+    height: 30px;
+    border-radius: 05px;
+}
+.pin
+{
+    border:1px solid #072F5F;
+    width: 60px; 
+    height: 30px;
+    border-radius: 05px;
+}
+.pin:hover
+{
+    border:1px solid #3895D3;
+    width: 60px; 
+    height: 30px;
+    border-radius: 05px;
+}
+.button1
+{
+   background-image: linear-gradient(to bottom right, #3895D3 ,white ,#1261A0);
+   border-radius: 3px;
+   border:1px solid black;
+   font-size: 20px;
+   font-weight: 200;
+   font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.button1:hover
+{
+    background-image: linear-gradient(to bottom right,#1261A0 ,white ,#3895D3);
+   border-radius: 3px;
+   border:1px solid black;
+   font-size: 20px;
+   font-weight: 200;
+   font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.logout
+{
+    text-align: center;
+    color: #072F5F;
+    text-decoration: none;
+    
+}
+.logout:hover
+{
+    text-align: center;
+    color: #072F5F;
+	text-decoration: underline;
+}
+
+.footer1
+{
+    text-align:center;
+    margin-top: 20px;
+    font-size: 3vw;	
+    margin-top: 50px;
+   
+}
